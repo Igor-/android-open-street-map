@@ -19,10 +19,9 @@ public class RequestTile {
 	private static final String URL_OSM_C = "http://andy.sandbox.cloudmade.com/tiles/cycle/";
 	*/
 	
-	private static final String URL_OSM_A = "http://tile.openstreetmap.org/";
-	private static final String URL_OSM_B = "http://tile.openstreetmap.org/";
-	private static final String URL_OSM_C = "http://tile.openstreetmap.org/";
-	
+	private static final String URL_OSM_A = "http://188.65.209.130/map/";
+	private static final String URL_OSM_B = "http://188.65.209.130/map/";
+	private static final String URL_OSM_C = "http://188.65.209.130/map/";
 	
 	private static final int IO_BUFFER_SIZE = 8192;
 	
